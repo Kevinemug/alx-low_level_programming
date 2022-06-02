@@ -1,11 +1,12 @@
 #include<stdio.h>
 /**
  * 
- *This program focus ont futs function for printing rather than printf function
+ *This prgram focuses on puts function
  */
 
 int main(void){
 puts("\"Programming is like building a multilingual puzzle");                                     
+return (0);
 }
                                                 
 
