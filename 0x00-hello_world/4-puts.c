@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
  * 
- *This program focus ont futs function for printing rather than printf
+ *This program focus ont futs function for printing rather than printf function
  */
 
 int main(void){
