@@ -14,6 +14,19 @@ for (alphabet = "a"; alphabet <= "z"; alphabet++)
 putchar(alphabet);
 putchar("\n");
 
-return (0);
+return (alphabet);
 
+}
+
+/**
+ * main - calls print_alphabet function.
+ *
+ * Return: always 0,
+ */
+
+int main(void)
+{
+print_alphabet();
+
+return (0);
 }
