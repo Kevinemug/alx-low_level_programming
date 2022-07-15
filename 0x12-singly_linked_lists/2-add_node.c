@@ -15,7 +15,7 @@ if (new == NULL)
 return (NULL);
 new->str = strdup(str);
 for (nchar = 0; str[nchar]; nchar++)
-;
+
 new->len = nchar;
 new->next = *head;
 *head = new;
